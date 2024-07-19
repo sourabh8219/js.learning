@@ -1,2 +1,2 @@
 # js.learning
-learning my way to learn javascript
+learning my way to javascript
